@@ -1,0 +1,1257 @@
+{
+  "iconSize": [
+    48,
+    48
+  ],
+  "cols": 16,
+  "icons": {
+    "Accessory": [
+      0,
+      0
+    ],
+    "Actor": [
+      48,
+      0
+    ],
+    "AdGui": [
+      96,
+      0
+    ],
+    "AdPortal": [
+      144,
+      0
+    ],
+    "AirController": [
+      192,
+      0
+    ],
+    "AlignOrientation": [
+      240,
+      0
+    ],
+    "AlignPosition": [
+      288,
+      0
+    ],
+    "AngularVelocity": [
+      336,
+      0
+    ],
+    "Animation": [
+      384,
+      0
+    ],
+    "AnimationConstraint": [
+      432,
+      0
+    ],
+    "AnimationController": [
+      480,
+      0
+    ],
+    "AnimationFromVideoCreatorService": [
+      528,
+      0
+    ],
+    "Animator": [
+      576,
+      0
+    ],
+    "ArcHandles": [
+      624,
+      0
+    ],
+    "Atmosphere": [
+      672,
+      0
+    ],
+    "Attachment": [
+      720,
+      0
+    ],
+    "AudioAnalyzer": [
+      0,
+      48
+    ],
+    "AudioChannelMixer": [
+      48,
+      48
+    ],
+    "AudioChannelSplitter": [
+      96,
+      48
+    ],
+    "AudioChorus": [
+      144,
+      48
+    ],
+    "AudioCompressor": [
+      192,
+      48
+    ],
+    "AudioDeviceInput": [
+      240,
+      48
+    ],
+    "AudioDeviceOutput": [
+      288,
+      48
+    ],
+    "AudioDistortion": [
+      336,
+      48
+    ],
+    "AudioEcho": [
+      384,
+      48
+    ],
+    "AudioEmitter": [
+      432,
+      48
+    ],
+    "AudioEqualizer": [
+      480,
+      48
+    ],
+    "AudioFader": [
+      528,
+      48
+    ],
+    "AudioFilter": [
+      576,
+      48
+    ],
+    "AudioFlanger": [
+      624,
+      48
+    ],
+    "AudioGate": [
+      672,
+      48
+    ],
+    "AudioLimiter": [
+      720,
+      48
+    ],
+    "AudioListener": [
+      0,
+      96
+    ],
+    "AudioPitchShifter": [
+      48,
+      96
+    ],
+    "AudioPlayer": [
+      96,
+      96
+    ],
+    "AudioRecorder": [
+      144,
+      96
+    ],
+    "AudioReverb": [
+      192,
+      96
+    ],
+    "AudioSpeechToText": [
+      240,
+      96
+    ],
+    "AudioTextToSpeech": [
+      288,
+      96
+    ],
+    "AudioTremolo": [
+      336,
+      96
+    ],
+    "AuroraScript": [
+      384,
+      96
+    ],
+    "AvatarEditorService": [
+      432,
+      96
+    ],
+    "AvatarSettings": [
+      480,
+      96
+    ],
+    "Backpack": [
+      528,
+      96
+    ],
+    "BallSocketConstraint": [
+      576,
+      96
+    ],
+    "BasePlate": [
+      624,
+      96
+    ],
+    "Beam": [
+      672,
+      96
+    ],
+    "BillboardGui": [
+      720,
+      96
+    ],
+    "BindableEvent": [
+      0,
+      144
+    ],
+    "BindableFunction": [
+      48,
+      144
+    ],
+    "BlockMesh": [
+      96,
+      144
+    ],
+    "BloomEffect": [
+      144,
+      144
+    ],
+    "BlurEffect": [
+      192,
+      144
+    ],
+    "BodyAngularVelocity": [
+      240,
+      144
+    ],
+    "BodyColors": [
+      288,
+      144
+    ],
+    "BodyForce": [
+      336,
+      144
+    ],
+    "BodyGyro": [
+      384,
+      144
+    ],
+    "BodyPosition": [
+      432,
+      144
+    ],
+    "BodyThrust": [
+      480,
+      144
+    ],
+    "BodyVelocity": [
+      528,
+      144
+    ],
+    "Bone": [
+      576,
+      144
+    ],
+    "BoolValue": [
+      624,
+      144
+    ],
+    "BoxHandleAdornment": [
+      672,
+      144
+    ],
+    "Breakpoint": [
+      720,
+      144
+    ],
+    "BrickColorValue": [
+      0,
+      192
+    ],
+    "BubbleChatConfiguration": [
+      48,
+      192
+    ],
+    "Buggaroo": [
+      96,
+      192
+    ],
+    "Camera": [
+      144,
+      192
+    ],
+    "CanvasGroup": [
+      192,
+      192
+    ],
+    "CFrameValue": [
+      240,
+      192
+    ],
+    "ChannelTabsConfiguration": [
+      288,
+      192
+    ],
+    "CharacterControllerManager": [
+      336,
+      192
+    ],
+    "CharacterMesh": [
+      384,
+      192
+    ],
+    "Chat": [
+      432,
+      192
+    ],
+    "ChatInputBarConfiguration": [
+      480,
+      192
+    ],
+    "ChatWindowConfiguration": [
+      528,
+      192
+    ],
+    "ChorusSoundEffect": [
+      576,
+      192
+    ],
+    "Class": [
+      624,
+      192
+    ],
+    "Cleanup": [
+      672,
+      192
+    ],
+    "ClickDetector": [
+      720,
+      192
+    ],
+    "ClientReplicator": [
+      0,
+      240
+    ],
+    "ClimbController": [
+      48,
+      240
+    ],
+    "Clouds": [
+      96,
+      240
+    ],
+    "Color": [
+      144,
+      240
+    ],
+    "ColorCorrectionEffect": [
+      192,
+      240
+    ],
+    "CompressorSoundEffect": [
+      240,
+      240
+    ],
+    "ConeHandleAdornment": [
+      288,
+      240
+    ],
+    "Configuration": [
+      336,
+      240
+    ],
+    "Constant": [
+      384,
+      240
+    ],
+    "Constructor": [
+      432,
+      240
+    ],
+    "Controller": [
+      480,
+      240
+    ],
+    "CoreGui": [
+      528,
+      240
+    ],
+    "CornerWedgePart": [
+      576,
+      240
+    ],
+    "CylinderHandleAdornment": [
+      624,
+      240
+    ],
+    "CylindricalConstraint": [
+      672,
+      240
+    ],
+    "Decal": [
+      720,
+      240
+    ],
+    "DepthOfFieldEffect": [
+      0,
+      288
+    ],
+    "Dialog": [
+      48,
+      288
+    ],
+    "DialogChoice": [
+      96,
+      288
+    ],
+    "DistortionSoundEffect": [
+      144,
+      288
+    ],
+    "DragDetector": [
+      192,
+      288
+    ],
+    "EchoSoundEffect": [
+      240,
+      288
+    ],
+    "EditableImage": [
+      288,
+      288
+    ],
+    "EditableMesh": [
+      336,
+      288
+    ],
+    "Enum": [
+      384,
+      288
+    ],
+    "EnumMember": [
+      432,
+      288
+    ],
+    "EqualizerSoundEffect": [
+      480,
+      288
+    ],
+    "Event": [
+      528,
+      288
+    ],
+    "Explosion": [
+      576,
+      288
+    ],
+    "FaceControls": [
+      624,
+      288
+    ],
+    "Field": [
+      672,
+      288
+    ],
+    "File": [
+      720,
+      288
+    ],
+    "Fire": [
+      0,
+      336
+    ],
+    "FlangeSoundEffect": [
+      48,
+      336
+    ],
+    "Folder": [
+      96,
+      336
+    ],
+    "ForceField": [
+      144,
+      336
+    ],
+    "Frame": [
+      192,
+      336
+    ],
+    "Function": [
+      240,
+      336
+    ],
+    "GameSettings": [
+      288,
+      336
+    ],
+    "GeneratedFolder": [
+      336,
+      336
+    ],
+    "GroundController": [
+      384,
+      336
+    ],
+    "Handles": [
+      432,
+      336
+    ],
+    "HapticEffect": [
+      480,
+      336
+    ],
+    "HapticService": [
+      528,
+      336
+    ],
+    "HeightmapImporterService": [
+      576,
+      336
+    ],
+    "Highlight": [
+      624,
+      336
+    ],
+    "HingeConstraint": [
+      672,
+      336
+    ],
+    "Humanoid": [
+      720,
+      336
+    ],
+    "HumanoidDescription": [
+      0,
+      384
+    ],
+    "IKControl": [
+      48,
+      384
+    ],
+    "ImageButton": [
+      96,
+      384
+    ],
+    "ImageHandleAdornment": [
+      144,
+      384
+    ],
+    "ImageLabel": [
+      192,
+      384
+    ],
+    "InputAction": [
+      240,
+      384
+    ],
+    "InputBinding": [
+      288,
+      384
+    ],
+    "InputContext": [
+      336,
+      384
+    ],
+    "Interface": [
+      384,
+      384
+    ],
+    "IntersectOperation": [
+      432,
+      384
+    ],
+    "Keyword": [
+      480,
+      384
+    ],
+    "Lighting": [
+      528,
+      384
+    ],
+    "LinearVelocity": [
+      576,
+      384
+    ],
+    "LineForce": [
+      624,
+      384
+    ],
+    "LineHandleAdornment": [
+      672,
+      384
+    ],
+    "LocalFile": [
+      720,
+      384
+    ],
+    "LocalizationService": [
+      0,
+      432
+    ],
+    "LocalizationTable": [
+      48,
+      432
+    ],
+    "LocalScript": [
+      96,
+      432
+    ],
+    "MaterialService": [
+      144,
+      432
+    ],
+    "MaterialVariant": [
+      192,
+      432
+    ],
+    "MemoryStoreService": [
+      240,
+      432
+    ],
+    "MeshPart": [
+      288,
+      432
+    ],
+    "Meshparts": [
+      336,
+      432
+    ],
+    "MessagingService": [
+      384,
+      432
+    ],
+    "Method": [
+      432,
+      432
+    ],
+    "Model": [
+      480,
+      432
+    ],
+    "Modelgroups": [
+      528,
+      432
+    ],
+    "Module": [
+      576,
+      432
+    ],
+    "ModuleScript": [
+      624,
+      432
+    ],
+    "Motor6D": [
+      672,
+      432
+    ],
+    "NegateOperation": [
+      720,
+      432
+    ],
+    "NetworkClient": [
+      0,
+      480
+    ],
+    "NoCollisionConstraint": [
+      48,
+      480
+    ],
+    "Operator": [
+      96,
+      480
+    ],
+    "PackageLink": [
+      144,
+      480
+    ],
+    "Pants": [
+      192,
+      480
+    ],
+    "Part": [
+      240,
+      480
+    ],
+    "ParticleEmitter": [
+      288,
+      480
+    ],
+    "Path2D": [
+      336,
+      480
+    ],
+    "PathfindingLink": [
+      384,
+      480
+    ],
+    "PathfindingModifier": [
+      432,
+      480
+    ],
+    "PathfindingService": [
+      480,
+      480
+    ],
+    "PitchShiftSoundEffect": [
+      528,
+      480
+    ],
+    "Place": [
+      576,
+      480
+    ],
+    "Plane": [
+      624,
+      480
+    ],
+    "PlaneConstraint": [
+      672,
+      480
+    ],
+    "Player": [
+      720,
+      480
+    ],
+    "Players": [
+      0,
+      528
+    ],
+    "PluginGuiService": [
+      48,
+      528
+    ],
+    "PointLight": [
+      96,
+      528
+    ],
+    "PrismaticConstraint": [
+      144,
+      528
+    ],
+    "ProceduralModel": [
+      192,
+      528
+    ],
+    "Property": [
+      240,
+      528
+    ],
+    "ProximityPrompt": [
+      288,
+      528
+    ],
+    "PublishService": [
+      336,
+      528
+    ],
+    "Reference": [
+      384,
+      528
+    ],
+    "RemoteEvent": [
+      432,
+      528
+    ],
+    "RemoteFunction": [
+      480,
+      528
+    ],
+    "RenderingTest": [
+      528,
+      528
+    ],
+    "ReplicatedFirst": [
+      576,
+      528
+    ],
+    "ReplicatedScriptService": [
+      624,
+      528
+    ],
+    "ReplicatedStorage": [
+      672,
+      528
+    ],
+    "ReverbSoundEffect": [
+      720,
+      528
+    ],
+    "RigidConstraint": [
+      0,
+      576
+    ],
+    "RobloxPluginGuiService": [
+      48,
+      576
+    ],
+    "RocketPropulsion": [
+      96,
+      576
+    ],
+    "RodConstraint": [
+      144,
+      576
+    ],
+    "RopeConstraint": [
+      192,
+      576
+    ],
+    "Rotate": [
+      240,
+      576
+    ],
+    "ScreenGui": [
+      288,
+      576
+    ],
+    "Script": [
+      336,
+      576
+    ],
+    "ScrollingFrame": [
+      384,
+      576
+    ],
+    "Seat": [
+      432,
+      576
+    ],
+    "Selected_Workspace": [
+      480,
+      576
+    ],
+    "SelectionBox": [
+      528,
+      576
+    ],
+    "SelectionSphere": [
+      576,
+      576
+    ],
+    "ServerScriptService": [
+      624,
+      576
+    ],
+    "ServerStorage": [
+      672,
+      576
+    ],
+    "Service": [
+      720,
+      576
+    ],
+    "Shirt": [
+      0,
+      624
+    ],
+    "ShirtGraphic": [
+      48,
+      624
+    ],
+    "SkinnedMeshPart": [
+      96,
+      624
+    ],
+    "Sky": [
+      144,
+      624
+    ],
+    "Smoke": [
+      192,
+      624
+    ],
+    "Snap": [
+      240,
+      624
+    ],
+    "Snippet": [
+      288,
+      624
+    ],
+    "SocialService": [
+      336,
+      624
+    ],
+    "Sound": [
+      384,
+      624
+    ],
+    "SoundEffect": [
+      432,
+      624
+    ],
+    "SoundGroup": [
+      480,
+      624
+    ],
+    "SoundService": [
+      528,
+      624
+    ],
+    "Sparkles": [
+      576,
+      624
+    ],
+    "SpawnLocation": [
+      624,
+      624
+    ],
+    "SpecialMesh": [
+      672,
+      624
+    ],
+    "SphereHandleAdornment": [
+      720,
+      624
+    ],
+    "SpotLight": [
+      0,
+      672
+    ],
+    "SpringConstraint": [
+      48,
+      672
+    ],
+    "StandalonePluginScripts": [
+      96,
+      672
+    ],
+    "StarterCharacterScripts": [
+      144,
+      672
+    ],
+    "StarterGui": [
+      192,
+      672
+    ],
+    "StarterPack": [
+      240,
+      672
+    ],
+    "StarterPlayer": [
+      288,
+      672
+    ],
+    "StarterPlayerScripts": [
+      336,
+      672
+    ],
+    "Struct": [
+      384,
+      672
+    ],
+    "StyleDerive": [
+      432,
+      672
+    ],
+    "StyleLink": [
+      480,
+      672
+    ],
+    "StyleQuery": [
+      528,
+      672
+    ],
+    "StyleRule": [
+      576,
+      672
+    ],
+    "StyleSheet": [
+      624,
+      672
+    ],
+    "SunRaysEffect": [
+      672,
+      672
+    ],
+    "SurfaceAppearance": [
+      720,
+      672
+    ],
+    "SurfaceGui": [
+      0,
+      720
+    ],
+    "SurfaceLight": [
+      48,
+      720
+    ],
+    "SurfaceSelection": [
+      96,
+      720
+    ],
+    "SwimController": [
+      144,
+      720
+    ],
+    "TaskScheduler": [
+      192,
+      720
+    ],
+    "Team": [
+      240,
+      720
+    ],
+    "Teams": [
+      288,
+      720
+    ],
+    "Terrain": [
+      336,
+      720
+    ],
+    "TerrainDetail": [
+      384,
+      720
+    ],
+    "TestService": [
+      432,
+      720
+    ],
+    "TextBox": [
+      480,
+      720
+    ],
+    "TextBoxService": [
+      528,
+      720
+    ],
+    "TextButton": [
+      576,
+      720
+    ],
+    "TextChannel": [
+      624,
+      720
+    ],
+    "TextChannelWindow": [
+      672,
+      720
+    ],
+    "TextChatCommand": [
+      720,
+      720
+    ],
+    "TextChatService": [
+      0,
+      768
+    ],
+    "TextLabel": [
+      48,
+      768
+    ],
+    "TextString": [
+      96,
+      768
+    ],
+    "Texture": [
+      144,
+      768
+    ],
+    "Tool": [
+      192,
+      768
+    ],
+    "Torque": [
+      240,
+      768
+    ],
+    "TorsionSpringConstraint": [
+      288,
+      768
+    ],
+    "Trail": [
+      336,
+      768
+    ],
+    "TremoloSoundEffect": [
+      384,
+      768
+    ],
+    "TrussPart": [
+      432,
+      768
+    ],
+    "TypeParameter": [
+      480,
+      768
+    ],
+    "UGCValidationService": [
+      528,
+      768
+    ],
+    "UIAspectRatioConstraint": [
+      576,
+      768
+    ],
+    "UICorner": [
+      624,
+      768
+    ],
+    "UIDragDetector": [
+      672,
+      768
+    ],
+    "UIFlexItem": [
+      720,
+      768
+    ],
+    "UIGradient": [
+      0,
+      816
+    ],
+    "UIGridLayout": [
+      48,
+      816
+    ],
+    "UIListLayout": [
+      96,
+      816
+    ],
+    "UIPadding": [
+      144,
+      816
+    ],
+    "UIPageLayout": [
+      192,
+      816
+    ],
+    "UIScale": [
+      240,
+      816
+    ],
+    "UIShadow": [
+      288,
+      816
+    ],
+    "UISizeConstraint": [
+      336,
+      816
+    ],
+    "UIStroke": [
+      384,
+      816
+    ],
+    "UITableLayout": [
+      432,
+      816
+    ],
+    "UITextSizeConstraint": [
+      480,
+      816
+    ],
+    "UnionOperation": [
+      528,
+      816
+    ],
+    "Unit": [
+      576,
+      816
+    ],
+    "UniversalConstraint": [
+      624,
+      816
+    ],
+    "UnreliableRemoteEvent": [
+      672,
+      816
+    ],
+    "UpdateAvailable": [
+      720,
+      816
+    ],
+    "UserService": [
+      0,
+      864
+    ],
+    "Value": [
+      48,
+      864
+    ],
+    "Variable": [
+      96,
+      864
+    ],
+    "VectorForce": [
+      144,
+      864
+    ],
+    "VehicleSeat": [
+      192,
+      864
+    ],
+    "VideoDisplay": [
+      240,
+      864
+    ],
+    "VideoFrame": [
+      288,
+      864
+    ],
+    "VideoPlayer": [
+      336,
+      864
+    ],
+    "ViewportFrame": [
+      384,
+      864
+    ],
+    "VirtualUser": [
+      432,
+      864
+    ],
+    "VoiceChannel": [
+      480,
+      864
+    ],
+    "Voicechat": [
+      528,
+      864
+    ],
+    "VoiceChatService": [
+      576,
+      864
+    ],
+    "VRService": [
+      624,
+      864
+    ],
+    "WedgePart": [
+      672,
+      864
+    ],
+    "Weld": [
+      720,
+      864
+    ],
+    "WeldConstraint": [
+      0,
+      912
+    ],
+    "Wire": [
+      48,
+      912
+    ],
+    "WireframeHandleAdornment": [
+      96,
+      912
+    ],
+    "Workspace": [
+      144,
+      912
+    ],
+    "WorldModel": [
+      192,
+      912
+    ],
+    "WrapDeformer": [
+      240,
+      912
+    ],
+    "WrapLayer": [
+      288,
+      912
+    ],
+    "WrapTarget": [
+      336,
+      912
+    ]
+  }
+}
