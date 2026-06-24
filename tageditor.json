@@ -1,0 +1,41 @@
+{
+  "iconSize": [
+    16,
+    16
+  ],
+  "cols": 8,
+  "icons": {
+    "AddToPreview": [
+      0,
+      0
+    ],
+    "RemoveFromPreview": [
+      16,
+      0
+    ],
+    "Tag": [
+      32,
+      0
+    ],
+    "Tag_Add": [
+      48,
+      0
+    ],
+    "Tag_Delete": [
+      64,
+      0
+    ],
+    "Tag_Edit": [
+      80,
+      0
+    ],
+    "Tag_Group": [
+      96,
+      0
+    ],
+    "Tag_Remove": [
+      112,
+      0
+    ]
+  }
+}
